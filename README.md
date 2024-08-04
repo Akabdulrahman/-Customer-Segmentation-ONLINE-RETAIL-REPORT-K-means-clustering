@@ -10,4 +10,5 @@ Visualization of customer segments and insights
 
 Recommendation for targeted marketing initiatives/strategies
 
+
 Technology used: Python(Pandas, Matplotlib, Seaborn, Scikit-Learn), Power Bi
