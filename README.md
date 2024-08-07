@@ -12,3 +12,10 @@ Recommendation for targeted marketing initiatives/strategies
 
 
 Technology used: Python(Pandas, Matplotlib, Seaborn, Scikit-Learn), Power Bi
+
+To get access to the python code analysis, click the link below:
+
+https://github.com/Akabdulrahman/-Customer-Segmentation-ONLINE-RETAIL-REPORT-K-means-clustering/blob/main/Customer%20Segmentation%20Jupyter%20%20().ipynb
+
+
+
