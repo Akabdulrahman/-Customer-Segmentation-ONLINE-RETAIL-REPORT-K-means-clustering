@@ -14,7 +14,7 @@ The project includes:
 __Technology used: Python(Pandas, Matplotlib, Seaborn, Scikit-Learn), Power Bi__
 
 
-__Access to the python code analysis by clicking the link below:__
+__Access the python code analysis by clicking the link below:__
 
 https://github.com/Akabdulrahman/-Customer-Segmentation-ONLINE-RETAIL-REPORT-K-means-clustering/blob/main/Customer%20Segmentation%20Jupyter%20%20().ipynb
 
